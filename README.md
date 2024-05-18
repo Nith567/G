@@ -1,4 +1,4 @@
-# Welcome to Our Project
+# zapOwl
 
 ## Overview
 Welcome to our project! We leverage the power of the Owl Protocol, a web3 integration platform that simplifies blockchain development by providing APIs and Zapier integration for any EVM blockchain. This allows developers to build blockchain applications without dealing with private keys, gas fees, or cryptocurrencies, enabling them to focus on the core aspects of their applications.
